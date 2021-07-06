@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning GameDev in Pygame
 - 💞️ I’m looking to collaborate on Game Dev
 - 📫 How to reach me ravi272320@gmail.com
+- Subscribe to my channel (KDUProgramming)
 
 <!---
 Ravi-2723/Ravi-2723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
