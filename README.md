@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ravi-2723
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning GameDev in Pygame
-- 💞️ I’m looking to collaborate on Game Dev
+- 💞️ I’m looking for collaboration in Game Dev
 - 📫 How to reach me ravi272320@gmail.com
 - Subscribe to my channel (KDUProgramming)
 
